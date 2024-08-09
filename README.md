@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Raylib-CPP-Starter-Template-for-VSCODE-V2
 Raylib C++ Starter Template for Visual Studio Code on Windows.
 This demo project contains a bouncing ball raylib example program.
@@ -27,3 +28,7 @@ The template now uses folders for better organizion of the files. So, all the so
 | 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
 | 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
 </p>
+=======
+# Snake-Game
+Classic Snake game in C++ using Raylib. Control a snake to eat food and grow longer while avoiding collisions. Features smooth gameplay, customizable settings, score tracking, and retro 2D graphics. Cross-platform support for Windows, macOS, and Linux. Contributions welcome!
+>>>>>>> b2d11a172d191903221fc94c45479eec869f647b
